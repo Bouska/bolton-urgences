@@ -17,6 +17,9 @@
 * Clinique de Saint Amé Douai http://clinique-saint-ame-douai.ramsaygds.fr/sites/default/files/urgences/hopital-15031.json  
 * Hopital privé Sévigné http://ramsaygds.fr/sites/default/files/urgences/hopital-15006.json (changement de groupe hospitalier ?)
 
+# Services d'urgences à scraper
+* Centre Hopitalier Public du Cotentin http://www.ch-cotentin.fr/usager/ecran-delais-urgence
+
 # Services d'urgences sans endpoint
 * Hopital privé de l'Est Lyonnais Saint Priest N/A  
 * Hopital privé Paul d'Egine Champigny sur Marne N/A  
