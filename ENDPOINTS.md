@@ -15,9 +15,7 @@
 * Hopital privé Jean Mermoz Lyon http://hopital-prive-jean-mermoz-lyon.ramsaygds.fr/sites/default/files/urgences/hopital-15014.json  
 * Hopital privé Saint-Martin Caen http://hopital-prive-saint-martin-caen.ramsaygds.fr/sites/default/files/urgences/hopital-15050.json  
 * Clinique de Saint Amé Douai http://clinique-saint-ame-douai.ramsaygds.fr/sites/default/files/urgences/hopital-15031.json  
-
-# Services d'urgences avec endpoint non fonctionnel
-* Hopital privé Sévigné http://ramsaygds.fr/sites/default/files/urgences/hopital-15006.json (changement de groupe)
+* Hopital privé Sévigné http://ramsaygds.fr/sites/default/files/urgences/hopital-15006.json (changement de groupe hospitalier ?)
 
 # Services d'urgences sans endpoint
 * Hopital privé de l'Est Lyonnais Saint Priest N/A  
