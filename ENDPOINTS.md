@@ -19,6 +19,7 @@
 
 # Services d'urgences à scraper
 * Centre Hopitalier Public du Cotentin http://www.ch-cotentin.fr/usager/ecran-delais-urgence
+* Pôle Santé Sud Le Mans http://www.polesantesud.fr/consultations/poles/urgences  
 
 # Services d'urgences sans endpoint
 * Hopital privé de l'Est Lyonnais Saint Priest N/A  
