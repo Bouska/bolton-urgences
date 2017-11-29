@@ -1,0 +1,118 @@
+{
+  "date" : "sam. oct. 14 22:04:11 CEST 2017",
+  "hopitaux" : [
+    {
+      "FINESS" : "920300043",
+      "nom" : "Hopital privé d'Antony",
+      "lieu" : "Antony",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-antony.ramsaygds.fr/sites/default/files/urgences/hopital-15039.json"
+    },
+    {
+      "FINESS" : "910300219",
+      "nom" : "Hopital privé Jacques Cartier",
+      "lieu" : "Massy",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-jacques-cartier-massy.ramsaygds.fr/sites/default/files/urgences/hopital-15011.json"
+    },
+    {
+      "FINESS" : "740014345",
+      "nom" : "Hopital privé Pays de Savoie",
+      "lieu" : "Annemasse",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-pays-de-savoie-annemasse.ramsaygds.fr/sites/default/files/urgences/hopital-15051.json"
+    },
+    {
+      "FINESS" : "940300270",
+      "nom" : "Hopital privé Armand Brillard",
+      "lieu" : "Nogent sur Marne",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-armand-brillard-nogent-sur-marne.ramsaygds.fr/sites/default/files/urgences/hopital-15034.json"
+    },
+    {
+      "FINESS" : "910803543",
+      "nom" : "Hopital privé Claude Galien",
+      "lieu" : "Quincy sous Senart",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-claude-galien-quincy-sous-senart.ramsaygds.fr/sites/default/files/urgences/hopital-15036.json"
+    },
+    {
+      "FINESS" : "930300066",
+      "nom" : "Hopital privé Est Parisien",
+      "lieu" : "Aulnay sous Bois",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-est-parisien-aulnay-sous-bois.ramsaygds.fr/sites/default/files/urgences/hopital-14998.json"
+    },
+    {
+      "FINESS" : "760021329",
+      "nom" : "Hopital privé de l'Estuaire",
+      "lieu" : "Le Havre",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-de-l-estuaire-le-havre.ramsaygds.fr/sites/default/files/urgences/hopital-15060.json"
+    },
+    {
+      "FINESS" : "780300422",
+      "nom" : "Hopital privé de l'Ouest Parisien",
+      "lieu" : "Trappes",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-de-l-ouest-parisien-trappes.ramsaygds.fr/sites/default/files/urgences/hopital-14991.json"
+    },
+    {
+      "FINESS" : "420011413",
+      "nom" : "Hopital privé de la Loire",
+      "lieu" : "Saint Etienne",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-de-la-loire-saint-etienne.ramsaygds.fr/sites/default/files/urgences/hopital-14994.json"
+    },
+    {
+      "FINESS" : "930300116",
+      "nom" : "Hopital privé de la Seine Saint Denis",
+      "lieu" : "Le Blanc Mesnil",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-de-la-seine-saint-denis-le-blanc-mesnil.ramsaygds.fr/sites/default/files/urgences/hopital-15001.json"
+    },
+    {
+      "FINESS" : "780300406",
+      "nom" : "Hopital privé de Parly 2",
+      "lieu" : "Le Chesnay",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-de-parly2-le-chesnay.ramsaygds.fr/sites/default/files/urgences/hopital-15025.json"
+    },
+    {
+      "FINESS" : "070780424",
+      "nom" : "Hopital privé Drôme Ardèche",
+      "lieu" : "Valence",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-drome-ardeche-valence-guilherand-granges.ramsaygds.fr/sites/default/files/urgences/hopital-15020.json"
+    },
+    {
+      "FINESS" : "930300595",
+      "nom" : "Hopital privé du Vert-Galant",
+      "lieu" : "Tremblay en France",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-du-vert-galant-tremblay-en-france.ramsaygds.fr/sites/default/files/urgences/hopital-15053.json"
+    },
+    {
+      "FINESS" : "690023411",
+      "nom" : "Hopital privé Jean Mermoz",
+      "lieu" : "Lyon",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-jean-mermoz-lyon.ramsaygds.fr/sites/default/files/urgences/hopital-15014.json"
+    },
+    {
+      "FINESS" : "140017237",
+      "nom" : "Hopital privé Saint-Martin",
+      "lieu" : "Caen",
+      "scraper" : "ramsaygds",
+      "URL" : "http://hopital-prive-saint-martin-caen.ramsaygds.fr/sites/default/files/urgences/hopital-15050.json"
+    },
+    {
+      "FINESS" : "590816310",
+      "nom" : "Clinique de Saint Amé",
+      "lieu" : "Douai",
+      "scraper" : "ramsaygds",
+      "URL" : "http://clinique-saint-ame-douai.ramsaygds.fr/sites/default/files/urgences/hopital-15031.json"
+    }
+  ]
+
+}
