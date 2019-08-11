@@ -39,3 +39,7 @@
 * [Hôspital Privé de Vitry (Site Pasteur) (Vitry-sur-Seine)](https://www.elsan.care/fr/hopital-prive-vitry-pasteur)
 * [Polyclinique de Gentilly (Nancy)](https://www.elsan.care/fr/polyclinique-gentilly)
 * [Pôle Santé République (Clermont-Ferrand)](https://www.elsan.care/fr/pole-sante-republique)
+* [Clinique Saint-Jean (Montpellier)](https://www.capsante.fr/temps-groupe.php?id=19)
+* [Clinique Saint-Louis (Ganges)](https://www.capsante.fr/temps-groupe.php?id=24)
+* [Polyclinique Pasteur (Pezenas)](https://www.capsante.fr/temps-groupe.php?id=20)
+* [Polyclinique des 3 Vallées (Bédarieux)](https://www.capsante.fr/temps-groupe.php?id=18)
